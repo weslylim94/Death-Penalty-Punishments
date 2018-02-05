@@ -1,0 +1,52 @@
+id,pun
+AL,1 2
+AK,0
+AR,1 2
+AZ,1 3
+CA,1 3
+CO,1
+CT,1
+DE,1 4
+FL,1 2
+GA,1
+HI,0
+IA,0
+ID,1
+IL,0
+IN,1
+KS,1
+KY,1 2
+LS,1
+ME,0
+MD,0
+MA,0
+MI,0
+MN,0
+MO,1 3
+MS,1
+MT,1
+NC,1
+ND,0
+NE,1
+NH,1 4
+NJ,0
+NM,0
+NV,1
+NY,0
+OH,1
+OK,1 2 5
+OR,1
+PA,1
+RI,0
+SC,1 2
+SD,1
+TN,1 2
+TX,1
+UT,1 5
+VA,1 2
+VT,0
+WA,1 4
+WI,0
+WV,0
+WY,1 3
+DC,0
